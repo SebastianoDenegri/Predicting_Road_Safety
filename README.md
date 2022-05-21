@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Building a machine learning classification model for accident severity
+# Predicting Road Safety
+Building machine learning classification models to predict the risk of getting into a car accident and the severity of a potential collision.
